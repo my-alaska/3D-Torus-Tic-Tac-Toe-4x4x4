@@ -9,3 +9,4 @@ I also included CMakeList.txt file with needed SDL configurations
 The font used in the project can be found at https://www.1001fonts.com/pixel-font.html 
 It is marked as "Free for commercial use"
 Implemented game_map can be used to create bigger maps for similar games 
+Images used in the game as tiles were drawn by me
