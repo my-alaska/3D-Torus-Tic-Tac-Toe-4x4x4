@@ -14,12 +14,12 @@ The most intuitive way of understanding torus is by referencing a classic game P
 When Pacman leaves the map on one of the sides, he enters it back from the opposite side. 
 Just as if he lived on a surface of a doughnut.
 This can be easily generalised to 3 dimensions.
-For anyone interested in the topic I recommend Michael Stevens' video that explains the torus mechanics further.
-https://youtu.be/mbJVYN0w6rg
+For anyone interested in the topic I recommend Michael Stevens' [video](https://youtu.be/mbJVYN0w6rg) that explains the torus mechanics further.
+
 
 The project was written entirely using Clion ide on windows 10 operating system.
-I also included CMakeList.txt file with needed SDL configurations.
-The font used in the project can be found at https://www.1001fonts.com/pixel-font.html 
-It is marked as "Free for commercial use".
+I also included CMakeList.txt file with needed SDL configurations necessary for running the program.
+The SDL library files can be downloaded from [SDL](https://www.libsdl.org/) website.
+After setting cloning the repository context I recommend running the main.cpp file in C/C++ IDE as I have not run the project in other ways yet so it may not work properly. The [font](https://www.1001fonts.com/pixel-font.html) used in the project is marked as "Free for commercial use".
 Implemented game_map can be used to create bigger maps for similar games.
 Images used in the game as tiles were drawn by me.
